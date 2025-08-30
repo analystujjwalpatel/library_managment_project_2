@@ -1,7 +1,3 @@
-Below is your README.md content cleaned, consistently formatted, and ready to paste back into GitHub. I did not change any of your SQL code — only organized headings, fixed code fences, inline comments, and made text/section formatting consistent so the preview will show proper syntax highlighting.
-
-Copy everything below and replace your current README.md.
-
 # Library Management System using SQL Project --P2
 
 ## Project Overview
